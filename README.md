@@ -1,53 +1,79 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=180&section=header&text=Castrozzy&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+# 🚀 João Paulo
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=26&center=true&vCenter=true&width=1100&lines=Frontend Developer+in+Progress+%E2%98%95;Fundamentals-first+%7C+Real+practice;Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Learn"/>
+**Frontend Developer em formação**  
+Apaixonado por tecnologia, interfaces modernas e aprendizado contínuo.
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🌱 Atualmente estudando **Frontend Development**
+- 💡 Interesse em **UI/UX, Web Performance e boas práticas**
+- 🧠 Sempre buscando evoluir e aprender novas tecnologias
+- 🎯 Objetivo: me tornar um desenvolvedor frontend profissional
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="left">
+<a href="https://github.com/Castrozzy" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/joao-paulo-d-3517273ab/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/_joaom7/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Castrozzy&theme=dracula" alt="Detalhes do Perfil" />
-</div>
+---
 
-### 🚀 Sobre Mim
-Sou um **Desenvolvedor Frontend** apaixonado por transformar ideias em interfaces digitais elegantes e funcionais. Estou constantemente explorando novas tecnologias para criar experiências de usuário excepcionais.
+## 🛠️ Tecnologias e Ferramentas
 
-- 💻 Atualmente trabalhando em projetos com **React & Next.js**.
-- 📚 Expandindo meus conhecimentos em **Performance Web e Acessibilidade**.
-- 🎯 Focado em escrever código limpo e escalável.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
+</p>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-  </a>
-</div>
-
----
-
-### 📊 Estatísticas e Conquistas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Castrozzy&show_icons=true&theme=dracula&rank_icon=github&count_private=true" height="180" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castrozzy&layout=compact&theme=dracula&hide_border=false" height="180" alt="" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Castrozzy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-</div>
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Castrozzy&show_icons=true&theme=tokyonight&locale=pt-br"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castrozzy&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-### 🤝 Vamos nos conectar?
+## 📚 Atualmente aprendendo
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/joao-paulo-d-3517273ab/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="castrojoaopaulo2009@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=footer"/>
-</div>
+- JavaScript moderno (ES6+)
+- Responsividade e Mobile First
+- Versionamento com Git
+- Conceitos de backend com Python
+
+---
+
+## ✨ Próximos passos
+
+- Aprender **React**
+- Criar projetos completos para portfólio
+- Contribuir em projetos open source
+
+---
+
+## 💬 Frase que me representa
+
+> “Pequenos progressos todos os dias levam a grandes resultados.”
+
+---
+
+## 👀 Visualizações do perfil
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Castrozzy&label=Visualizações&color=0e75b6&style=flat"/>
+</p>
