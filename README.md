@@ -1,6 +1,8 @@
-<div align="center">
-<h1>Olá, eu sou o João Paulo 👋 (Castrozzy)</h1>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=180&section=header&text=Castrozzy&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&size=26&center=true&vCenter=true&width=1100&lines=Frontend Developer+in+Progress+%E2%98%95;Fundamentals-first+%7C+Real+practice;Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Learn"/>
+</p>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Castrozzy&theme=dracula" alt="Detalhes do Perfil" />
@@ -47,6 +49,5 @@ Sou um **Desenvolvedor Frontend** apaixonado por transformar ideias em interface
   <a href="castrojoaopaulo2009@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=footer"/>
 </div>
-
-<br />
