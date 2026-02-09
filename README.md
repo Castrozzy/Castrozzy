@@ -18,11 +18,6 @@ Apaixonado por tecnologia, interfaces modernas e aprendizado contínuo.
 
 <h2 align="center">🌐 Conecte-se comigo</h2>
 
-<p align="center">
-<a href="https://github.com/Castrozzy" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
 <a href="https://www.linkedin.com/in/joao-paulo-d-3517273ab/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
@@ -37,7 +32,7 @@ Apaixonado por tecnologia, interfaces modernas e aprendizado contínuo.
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
 </p>
 
 ---
