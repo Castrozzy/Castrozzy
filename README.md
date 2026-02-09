@@ -1,11 +1,13 @@
-# 🚀 João Paulo
+<h1 align="center">🚀 João Paulo</h1>
 
-**Frontend Developer em formação**  
+<p align="center">
+<strong>Frontend Developer em formação</strong><br>
 Apaixonado por tecnologia, interfaces modernas e aprendizado contínuo.
+</p>
 
 ---
 
-## 👨‍💻 Sobre mim
+<h2 align="center">👨‍💻 Sobre mim</h2>
 
 - 🌱 Atualmente estudando **Frontend Development**
 - 💡 Interesse em **UI/UX, Web Performance e boas práticas**
@@ -14,9 +16,9 @@ Apaixonado por tecnologia, interfaces modernas e aprendizado contínuo.
 
 ---
 
-## 🌐 Conecte-se comigo
+<h2 align="center">🌐 Conecte-se comigo</h2>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Castrozzy" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
@@ -32,24 +34,15 @@ Apaixonado por tecnologia, interfaces modernas e aprendizado contínuo.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Castrozzy&show_icons=true&theme=tokyonight&locale=pt-br"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castrozzy&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📚 Atualmente aprendendo
+<h2 align="center">📚 Atualmente aprendendo</h2>
 
 - JavaScript moderno (ES6+)
 - Responsividade e Mobile First
@@ -58,7 +51,7 @@ Apaixonado por tecnologia, interfaces modernas e aprendizado contínuo.
 
 ---
 
-## ✨ Próximos passos
+<h2 align="center">✨ Próximos passos</h2>
 
 - Aprender **React**
 - Criar projetos completos para portfólio
@@ -66,14 +59,16 @@ Apaixonado por tecnologia, interfaces modernas e aprendizado contínuo.
 
 ---
 
-## 💬 Frase que me representa
+<h2 align="center">💬 Frase que me representa</h2>
 
-> “Pequenos progressos todos os dias levam a grandes resultados.”
+<p align="center">
+“Pequenos progressos todos os dias levam a grandes resultados.”
+</p>
 
 ---
 
-## 👀 Visualizações do perfil
+<h2 align="center">👀 Visualizações do perfil</h2>
 
-<p align="left">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Castrozzy&label=Visualizações&color=0e75b6&style=flat"/>
 </p>
